@@ -70,3 +70,11 @@ venv\Scripts\activate      # On Windows
 
 # Install dependencies
 pip install -r requirements.txt
+
+#Add Your API Key
+
+Create a .env file in the root directory:
+
+GEMINI_API_KEY=your_api_key_here
+
+Also You can Use Uv instead of pip its all depends on you.
